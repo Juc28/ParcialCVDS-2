@@ -1,3 +1,4 @@
 # ParcialCVDS-2
-#Parcial Practico 
+# Parcial Practico 
 Erika Juliana Castro Romero 
+erika.castro@mail.escuelaing.edu.co
